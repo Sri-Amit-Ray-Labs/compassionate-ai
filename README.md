@@ -24,6 +24,78 @@ Compassion is not merely an abstract moral ideal. It can become a measurable des
 The mission of the **Compassionate AI** project is to create an open, collaborative ecosystem of frameworks, algorithms, tools, datasets, benchmarks, educational resources, and research that enables developers, researchers, educators, organizations, and policymakers to build AI systems that are both scientifically rigorous and deeply human-centered.
 
 Our mission is guided by the belief that technological progress and human values should evolve together. By combining advances in artificial intelligence with compassion, ethical reasoning, transparency, accountability, and responsible innovation, we aim to help shape intelligent systems that improve lives, strengthen societies, and support sustainable development for present and future generations.
+---
+
+## 🔗 Official Resources: The 25 Human-Centered Compassionate AI Algorithms
+
+The **Compassionate AI** ecosystem is built upon the **25 Human-Centered Compassionate AI Algorithms**, a collection of computational frameworks proposed by **Sri Amit Ray** for developing intelligent systems that are compassionate, ethical, transparent, trustworthy, and socially responsible.
+
+Each algorithm addresses a distinct aspect of Compassionate AI, ranging from suffering reduction and empathy modeling to human flourishing, AI safety, environmental stewardship, and protection of future generations.
+
+### Core Algorithms
+
+1. [Compassion Quotient (CQ) Algorithm](https://amitray.com/compassion-quotient-cq-algorithm-compassionate-ai/)
+2. [Suffering Reduction Algorithm (SRA)](https://amitray.com/suffering-reduction-algorithm-sra-compassionate-ai/)
+3. [Empathy Modeling Algorithm (EMA)](https://amitray.com/empathy-modeling-algorithm-ema-compassionate-ai/)
+4. [Pain Recognition and Prediction Algorithm (PRPA)](https://amitray.com/pain-recognition-and-prediction-algorithm-prpa-for-compassionate-ai/)
+5. [Human Flourishing Optimization Algorithm (HFOA)](https://amitray.com/human-flourishing-optimization-algorithm-hfoa-compassionate-ai/)
+6. [Ray Mother–Infant Inter-brain Synchrony Algorithm](https://amitray.com/ray-mother-infant-inter-brain-synchrony-algorithm-deep-compassionate-ai/)
+7. [Human–AI Emotional Resonance Algorithm](https://amitray.com/human-ai-emotional-resonance-algorithm-compassionate-ai/)
+8. [Collective Compassion Network Algorithm](https://amitray.com/collective-compassion-network-algorithm-compassionate-ai/)
+9. [Vulnerable Population Protection Algorithm](https://amitray.com/vulnerable-population-protection-algorithm-compassionate-ai/)
+10. [Social Harmony Optimization Algorithm](https://amitray.com/social-harmony-optimization-algorithm-compassionate-ai/)
+11. [Human Dignity Preservation Algorithm](https://amitray.com/human-dignity-preservation-algorithm-compassionate-ai/)
+12. [Fairness and Bias Mitigation Algorithm](https://amitray.com/fairness-and-bias-mitigation-algorithm-compassionate-ai/)
+13. [Inclusion Equity Algorithm](https://amitray.com/inclusion-equity-algorithm-compassionate-ai/)
+14. [Transparency and Explainability Algorithm](https://amitray.com/transparency-and-explainability-algorithm-compassionate-ai/)
+15. [Human Oversight Assurance Algorithm](https://amitray.com/human-oversight-assurance-algorithm-compassionate-ai/)
+16. [Ahimsa (Non-Harm) Decision Algorithm](https://amitray.com/ahimsa-non-harm-decision-algorithm-compassionate-ai/)
+17. [Risk Anticipation Algorithm](https://amitray.com/risk-anticipation-algorithm-compassionate-ai/)
+18. [Harm Prevention Algorithm](https://amitray.com/harm-prevention-algorithm-compassionate-ai/)
+19. [Misinformation Detection Algorithm](https://amitray.com/misinformation-detection-algorithm-compassionate-ai/)
+20. [Trustworthiness Verification Algorithm](https://amitray.com/trustworthiness-verification-algorithm-compassionate-ai/)
+21. [Ecological Impact Assessment Algorithm](https://amitray.com/ecological-impact-assessment-algorithm-compassionate-ai/)
+22. [Planetary Health Optimization Algorithm](https://amitray.com/planetary-health-optimization-algorithm-compassionate-ai/)
+23. [Future Generation Protection Algorithm](https://amitray.com/future-generation-protection-algorithm-compassionate-ai/)
+24. [Intergenerational Justice Algorithm](https://amitray.com/intergenerational-justice-algorithm-compassionate-ai/)
+25. [Compassionate Civilization Stewardship Algorithm](https://amitray.com/compassionate-civilization-stewardship-algorithm-compassionate-ai/)
+
+---
+
+# 📚 Selected References
+
+The following publications provide the scientific foundation of the Compassionate AI ecosystem.
+
+1. Ray, Amit. **Human Flourishing Optimization Algorithm (HFOA) for Compassionate AI Architecture.**  
+   https://amitray.com/human-flourishing-optimization-algorithm-hfoa-compassionate-ai/
+
+2. Ray, Amit. **The Sri Amit Ray Compassionate AI Architecture (CAIA): A Seven-Layer Framework for Human-Centered Artificial Intelligence.**  
+   https://amitray.com/compassionate-ai-architecture/
+
+3. Ray, Amit. **Human-Centered Compassionate AI: The 25 Algorithms.**  
+   https://amitray.com/human-centered-compassionate-ai-the-25-algorithms/
+
+4. Ray, Amit. **AI Consciousness and Self-Aware Robots: Sri Amit Ray's Framework for Compassionate Intelligence.**  
+   https://amitray.com/ai-consciousness-self-aware-robots/
+
+5. Ray, Amit. **The 12 Sri Amit Ray Compassionate AI Principles.**  
+   https://amitray.com/the-12-compassionate-ai-principles-for-humanity-and-future-generations/
+
+6. Ray, Amit. **The Compassionate AI Lab Declaration on AI Safety, Suffering Reduction, and the Protection of Humanity.**  
+   https://amitray.com/compassionate-ai-declaration-protection-of-humanity/
+
+7. Ray, Amit. **Calling for a Compassionate AI Movement.**  
+   https://amitray.com/calling-for-a-compassionate-ai-movement/
+
+8. Ray, Amit. **From Data-Driven AI to Compassionate AI: Safeguarding Humanity and Empowering Future Generations.**  
+   https://amitray.com/from-data-driven-ai-to-compassionate-ai-safeguarding-humanity-and-empowering-future-generations/
+
+9. Ray, Amit. **The 10 Ethical AI Indexes for Responsible AI.**  
+   https://amitray.com/the-10-ethical-ai-indexes-for-responsible-ai/
+
+10. Additional articles, tutorials, and research publications are available at:
+
+**🌐 https://amitray.com/category/compassionate-ai/**
 
 ---
 
